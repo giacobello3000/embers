@@ -1,0 +1,9 @@
+{
+  "name": "Embers — Streak Tracker",
+  "short_name": "Embers",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#14110F",
+  "theme_color": "#14110F",
+  "orientation": "portrait"
+}
